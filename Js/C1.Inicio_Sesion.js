@@ -29,6 +29,6 @@ document.getElementById('Iniciar_Sesion_Formulario').addEventListener('submit', 
 
 document.getElementById('Emergencia').addEventListener('click', function(e) {
     e.preventDefault();
-    window.location.href = 'Restablecer_Contraseña.html';
+    window.location.href = '../Html/A5.Restablecer_Contraseña.html';
 });
     
